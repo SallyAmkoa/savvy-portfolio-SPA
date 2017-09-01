@@ -1,3 +1,7 @@
 .hidden {
   display: none;
 }
+
+.page-container {
+  margin-top: 60px;
+}
